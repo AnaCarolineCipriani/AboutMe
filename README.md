@@ -1,3 +1,3 @@
-### Hi there 👋
+### Olá Mundo! :earth_americas:
 
-![Ana's github stats](https://github-readme-stats.vercel.app/api?username=Arleca&show_icons=true&theme=dark)
+![Ana's Github stats](https://github-readme-stats.vercel.app/api?username=Arleca&show_icons=true&theme=buefy)
